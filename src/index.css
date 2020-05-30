@@ -1,5 +1,15 @@
-*{
-  margin: 0;
-  padding: 0;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.App {
+    margin: 0 auto;
+    width: 75%;
+}
+
+main{
+    margin-top: 10px;
 }
 

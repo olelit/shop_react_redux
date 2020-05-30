@@ -1,0 +1,42 @@
+.cart_item {
+    display: flex;
+}
+
+.cart_image {
+    height: 50px;
+}
+
+.cart_text {
+    font-size: 11px;
+}
+
+.cart_small_text {
+    color: grey;
+    font-size: 9px;
+}
+
+.image_block{
+    width: 25%;
+}
+
+.cart_click{
+    cursor: pointer;
+}
+
+.main_text{
+    width: 50%;
+}
+
+.action_buttons{
+    width: 25%;
+}
+
+.cart_panel {
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.75);
+    position: absolute;
+    background: white;
+    padding: 10px;
+    margin-top: 20px;
+    min-width: 300px;
+    right: 45px;
+}

@@ -1,0 +1,27 @@
+.book_item{
+    width: 180px;
+    margin: 5px;
+    border: 1px solid darkgray;
+    padding: 5px;
+}
+
+.book_item_image{
+    width: 100%;
+}
+
+.book_image{
+    height: 300px;
+}
+
+.buy_button{
+    cursor: pointer;
+    background: limegreen;
+    width: 100%;
+    padding: 5px;
+    border: none;
+    color: white;
+}
+
+.info{
+    height: 160px;
+}

@@ -1,0 +1,8 @@
+.filter_name{
+    margin-right: 10px;
+}
+
+.filter_item{
+    display: flex;
+    margin-left: 25px;
+}

@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid darkgray;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.block_groups {
+    display: flex;
+    width: 25%;
+    justify-content: space-between;
+}
